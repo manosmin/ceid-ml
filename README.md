@@ -18,11 +18,8 @@ This project combines data analysis, machine learning, and natural language proc
 
 **Back End:** Python
 
-**ML Libraries:** scikit-learn, Tensorflow, Keras, NLTK
+**Libraries:** scikit-learn, Tensorflow, Keras, NLTK, pandas, NumPy, statsmodels, Matplotlib
 
-**Data Analysis Libraries:** pandas, NumPy, statsmodels
-
-**Data Visualization Libraries:** Matplotlib
 
 
 ## Deployment
