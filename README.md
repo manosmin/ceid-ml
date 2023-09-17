@@ -35,6 +35,12 @@ To create the needed csv files for the project run
 
 
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+*Data Analysis*</br>
+![App Screenshot](https://github.com/manosmin/ceid-ml/blob/master/screenshots/ss1.png)</br>
+![App Screenshot](https://github.com/manosmin/ceid-ml/blob/master/screenshots/ss2.png)</br>
+*Outliers Detection using K-Means*</br>
+![App Screenshot](https://github.com/manosmin/ceid-ml/blob/master/screenshots/ss4.png)</br>
+![App Screenshot](https://github.com/manosmin/ceid-ml/blob/master/screenshots/ss3.png)</br>
+*Evaluation*</br>
+![App Screenshot](https://github.com/manosmin/ceid-ml/blob/master/screenshots/ss5.png)
 
